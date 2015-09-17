@@ -167,7 +167,7 @@ The above example generates a thumbnail `images/planes_thumb.jpg` sized `150 x 1
 
 This setting allows you to define a fixed size for the RokBox2 popup. This affects templates that are either responsive or fixed, so beware that the popup will retain the set size no matter what the width of the browser window is.
 
-To set up a fixed-size RokBox2 popup, add `data-rokbox-size="210 213"` to the image modifiers where 210 is the width and 313 is the height of the popup image.
+To set up a fixed-size RokBox2 popup, add `data-rokbox-size="210 313"` to the image modifiers where 210 is the width and 313 is the height of the popup image.
 
 You can alternatively use `data-rokbox-size="210 100%"` as this will enable automatic height for a box 210px wide.
 
